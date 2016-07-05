@@ -12,5 +12,6 @@ Usage:
 ```html
 <oe-backstrech [target]="your-target"
     [source]="your-background-image-or-array-of-images"
-    [options]="{any-options-in-backstrech-you-want-to-use}"  
+    [options]="{any-options-in-backstrech-you-want-to-use}">
+</oe-backstrech>
 ```
